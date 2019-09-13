@@ -1,0 +1,13 @@
+{
+"companyName": "PropertyStartVR",
+"productName": "Lot_0025",
+"dataUrl": "Build25.data.unityweb",
+"wasmCodeUrl": "Build25.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build25.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
